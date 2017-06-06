@@ -18,6 +18,5 @@ namespace Stats_tracker
         {
             InitializeComponent();
         }
-
     }
 }
