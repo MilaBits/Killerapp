@@ -1,0 +1,9 @@
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\bin\Debug\Stats tracker.exe.config
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\bin\Debug\Stats tracker.exe
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\bin\Debug\Stats tracker.pdb
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\obj\Debug\Stats tracker.csprojResolveAssemblyReference.cache
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\obj\Debug\Stats_tracker.Properties.Resources.resources
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\obj\Debug\Stats tracker.csproj.GenerateResource.Cache
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\obj\Debug\Stats tracker.exe
+c:\users\joris\documents\visual studio 2017\Projects\Killerapp\Stats tracker\obj\Debug\Stats tracker.pdb
+C:\Users\Joris\Documents\Visual Studio 2017\Projects\Killerapp\Stats tracker\obj\Debug\Stats_tracker.MainForm.resources
